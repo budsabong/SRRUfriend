@@ -16,7 +16,7 @@
         <!--Logo-->
         <ImageView
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/logo"
+            android:src="@drawable/logosrru"
             android:layout_width="@dimen/logo"
             android:layout_height="@dimen/logo" />
 
